@@ -10,3 +10,7 @@ In answering this question, Mr. Ram Swarup states the following: "All this we be
 Or perhaps the sickness is deeper.  Long back, Sri Aurobindo saw the root cause of India's weakness, not in foreign yoke or poverty or dearth of spiritual experience, but in the decline of thinking power. Everywhere he saw inability or unwillingness to think, which is a sign of tragic decadence."
 
 ## Chapter 1 - Pakistan birth and objectives
+
+- Dr. Muhammad Iqbal was the first one to put forward the idea of a separate nation of Pakistan, in the annual session of Muslim League. 
+
+- Rehmat Ali circulated a pamphlate titles "Now or Never" in Jan 1933 in Cambridge which claimed that muslims are so different form hindus that they can no coexist with them. They neither  inter-dine nor inter-marry. He also conceptualized how this state might look like and what their respective names will be. Country including Asam and Bengal will be called Bangistan. Countries out of Bihar, U.P.,  Rajputana and Mopala region will be called `Farukistan`, `Haiderstan`, `Munistan` and `Mopalistan` respectively. These numerous muslim states will completely sorround the remaining non-muslim state from all sides and will gradually conquer it all in due time. 
