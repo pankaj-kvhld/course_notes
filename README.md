@@ -1,4 +1,5 @@
 # Muslim League Attack on Sikhs and Hindus in the Punjab 1947, S. GURBACHAN SINGH TALIB
+
 This book was published in 1950 by Shiromani Gurudwara Prabandhak Samiti. Mr. Talib was the principal of Lyallapur Khalsa colleage, Jallandhar. It not only records the painfully brutal uprooting of more than 7 million Sikhs and Hindus but also highlihgts the fact that this episode was the culmination of a decade long conspiracy of Muslim League. League perceived their presence in going to be muslim Pakistan as an impurity to be dealt with.
 
 ## Introduction
@@ -24,3 +25,14 @@ Or perhaps the sickness is deeper.  Long back, Sri Aurobindo saw the root cause 
 - As early as 1938, Muslim league had started preparing for the violence that befell Hindus and Sikhs in 1946-47. They created two organizations namely, `Muslim League Volunteer Corp` and `Muslim National Guards`. The latter was much more dangerous and later converted to `Pakistan National Guards`.   They were collecting weapons and organizing training camps. They also hoarded petrol, which not only facilitated quick mobilization but also arson, evidence of the latter are the burned down villages left behind in both Punjab and Bengal. When in January, 1947 the Lahore office of the Muslim National Guards was raided by the Punjab police, a good deal of Military equipment including steel helmets and badges were recovered.  
 
     In April 1947, the Chief Secretary of Punjab reported to the Governor of Punjab that brisk training activity is underway and he estimated the strength of Muslim National League to be around 39000. 
+<<<<<<< HEAD
+
+## Chapter 2 - The cabinet mission and Muslim league direct action
+
+- Hindus and Sikhs were already witnessing  `Pakistan in action` bz 1946. One aspect of this experience was related to police of the state which had more than 70% of its employees as Muslims. The hatred in spuing our of Muslim League made sure that police is not partial in any matter of conflict between Muslims and non-muslims. 
+
+- 1946 elections in Punjab provided first opportunity to Muslim League to test it strength. Out of 175 seats they managed to win 76, emerging as the single largest party. The Unionists were reduced to just 10. Such was the atmosphere that not a single non-muslim defected to join them, as they did not want to be ruled over by a party with an islamist ideology. League has made its plan to subjugate all non-muslims very clear to everyone. Chagrined by their loss Muslim League intensified its hatred towards non-muslims.
+
+- Congress, the Panthic party (Akali Dal) and the Unionist party formed a coalition government in March of 1946, with Sir Khizar Hyat Khan as Premier as the Premier. Khizar Hayat remained opposed to partition, however in the end he demanded a separate state of Punjab independent from both India and Pakistan. This was the first time a predominantly non-muslim party ruled over Punjab. Muslim league made its life difficult by constantly organizing civil disobedience and protests. 
+
+- 
