@@ -11,18 +11,16 @@ Or perhaps the sickness is deeper.  Long back, Sri Aurobindo saw the root cause 
 
 ## Chapter 1 - Pakistan birth and objectives
 
-- Dr. Muhammad Iqbal was the first one to put forward the idea of a separate nation of Pakistan, in the annual session of Muslim League. 
+- Dr. Muhammad Iqbal was the first one to put forward the idea of a separate nation of Pakistan, in the annual session of Muslim League held at Allahabad in the year 1930 . 
 
 - Rehmat Ali circulated a pamphlet titles "Now or Never" in Jan 1933 in Cambridge which claimed that muslims are so different from hindus that they cannot coexist with them. They neither  inter-dine nor inter-marry. He also conceptualized how this new muslim state might look like and what their respective names will be. Country including Assam and Bengal will be called Bangistan. Countries out of Bihar, U.P.,  Rajputana and Mopala region will be called `Farukistan`, `Haiderstan`, `Munistan` and `Mopalistan` respectively. These numerous muslim states will completely sorround the remaining non-muslim state from all sides and will gradually conquer it all in due time. Although his designs never came to pass, but they did incite the hatred for non-muslims in the hearts of believers which to some extent was lying dormant.
 
-- In the 1941 annual session of Muslim league in Madras, the demand for separate Pakistan became much more vehement. Jinnah warned, "We do not want under any circumstances a constitution of All-India character with one Government at the centre.  We will never agree to that.  If you once agree to it, let me tell you that the Muslims would be absolutely wiped out of existence."
-
-    This constant talk of muslims being wiped out of existence,  on its own is a reflection of the designs muslims have for non-muslims.
-
-Resistance, direct action and struggle these words have been the keynote of the Muslim League in defining its relations with Hindu India. 
-
 - In its Patna annual session in 1938, muslim league passed a resolution stating that the time has come to authorize its working committee to decide and resort to `direct action`.
 
-- As early as 1938, Muslim league had started preparing for the violence that befell Hindus and Sikhs in 1946-47. They created two organizations namely, `Muslim League Volunteer Corp` and `Muslim National Guards`. The latter was much more dangerous and later converted to `Pakistan National Guards`.   They were collecting weapons and organizing training camps. They also hoarded petrol, which not only facilitated quick mobilization but also arson, evidence of the latter are the burned down villages left behind in both Punjab and Bengal. When in January, 1947 the Lahore office of the Muslim National Guards was raided by the Punjab police, a good deal of Military equipment including steel helmets ant badges were recovered.  
+- In the 1941 annual session of Muslim league in Madras, the demand for separate Pakistan became much more vehement. Jinnah warned, "We do not want under any circumstances a constitution of All-India character with one Government at the centre.  We will never agree to that.  If you once agree to it, let me tell you that the Muslims would be absolutely wiped out of existence."
+
+- This constant talk of muslims being wiped out of existence,  on its own is a reflection of the designs muslims have for non-muslims. Resistance, direct action and struggle these words have been the keynote of the Muslim League in defining its relations with Hindu India. 
+
+- As early as 1938, Muslim league had started preparing for the violence that befell Hindus and Sikhs in 1946-47. They created two organizations namely, `Muslim League Volunteer Corp` and `Muslim National Guards`. The latter was much more dangerous and later converted to `Pakistan National Guards`.   They were collecting weapons and organizing training camps. They also hoarded petrol, which not only facilitated quick mobilization but also arson, evidence of the latter are the burned down villages left behind in both Punjab and Bengal. When in January, 1947 the Lahore office of the Muslim National Guards was raided by the Punjab police, a good deal of Military equipment including steel helmets and badges were recovered.  
 
     In April 1947, the Chief Secretary of Punjab reported to the Governor of Punjab that brisk training activity is underway and he estimated the strength of Muslim National League to be around 39000. 
