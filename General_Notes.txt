@@ -1,0 +1,104 @@
+### Fastai
+1. fastai v3 course needs dataclasses which were introduced in python 3.7 
+	Hence the new notebooks do not work with the usual intallation. 
+
+2. "conda install -c pytorch -c fastai fastai" is stated to work on 
+	https://github.com/fastai/fastai/blob/master/README.md#installation 
+	for fastai v3 course (WORKS on DSVM!!!)
+	
+3. Fastai v0.7 can not be installed on DSVM as permission denied error using pip 
+
+4. fastai2 can be installed:
+		git clone https://github.com/fastai/fastai.git
+		conda env create -f environment.yml
+
+### DSVM
+1. Log in with:
+	"ssh joshipan@10.115.15.9" or for jupyter notebook session with 
+	"ssh -L 8881:localhost:8881 joshipan@10.115.15.9" and on bash
+	"jupyter notebook --no-browser --port=8881"
+	
+2. To copy files from local windows to DSVM: (bash must start on local machine)
+	"scp -r folder_on_windows joshipan@10.115.15.9:/data/home/joshipan/folder_on_dsvm"
+	"scp -r data_har/ joshipan@10.115.15.9:/data/home/joshipan/Fastai/"
+	
+3.  To count the number of files matching a pattern with recursive ls
+	"ls -R | grep ".png" | wc -l"
+	
+### Auto-sklearn
+1. create conda environment with python=3.6
+
+2. conda install gxx_linux-64 gcc_linux-64 swig
+
+3. pip install git+https://github.com/automl/auto-sklearn
+
+## Linux
+1. rm -r mydir
+
+2. List folder/files limited to max depth:
+	"find . -maxdepth 2 -type d"
+
+## JIRA
+1. On a Kanban board to make the issues to be movable from one column to another, the issue status need to changed to Open.
+	- Click on the Task/Epic/Story
+	- Click Status: (View Workflow)
+	- Click on Open 
+	
+## Conda
+1. "conda clean --packages && conda clean --all && conda update --all" solved various problems then can arise due to incomplete 
+	updating of conda and more. 
+	
+2. HTTP 0000, SSLErros SSL not found.
+	Download SSL for windows https://slproweb.com/products/Win32OpenSSL.html install the 64bit version and add the bin folder to PATH. 
+	
+## Python Packages installation related
+1. To install pygraphviz
+	"conda install -c alubbock pygraphviz"
+	
+## Jupyter notebooks
+1. To insatll juyter notebooks with all additional features: 
+	"conda install -c conda-forge jupyter_contrib_nbextensions" and
+	"conda install -c conda-forge jupyter_nbextensions_configurator nbpresent nb_conda nb_conda_kernels nb_anacondacloud" 
+	
+2. To make slides:
+	jupyter nbconvert "file.ipynb" --to slides --reveal-prefix "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.1.0
+	
+	
+## Python
+1. To flatten a list of list
+	[leaf for tree in BIG_LIST for leaf in tree]
+	
+## Docker
+	1. Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.VerifiedHTTPSConnection object at 0x7f358e2262d0>: Failed to establish a new connection: [Errno 111] Connection refused',)': /simple/flask/              
+
+	It if fixed by using --build-arg as follows:
+		docker build --build-arg HTTP_PROXY=sfl-hza-prx-02.schaeffler.com:8080 HTTPS_PROXY=sfl-hza-prx-02.schaeffler.com:8080 --tag=frendlyhello .
+	
+	2. To mount shared location inside docker container:
+	
+		docker run -it -v /c/Users/joshipan/imgs:/home/fastai-user fastdotai/fastai-dev bash
+	
+	3. urllib and “SSL: CERTIFICATE_VERIFY_FAILED” Error inside docker
+		import ssl
+		ssl._create_default_https_context = ssl._create_unverified_context
+
+	
+## Pulse secure certificates
+Link to check the current status
+https://clm.pki.schaeffler.com/CertificateManagement/content/sm/main/SMainMenu.aspx
+
+## Count the number of lines in a git repository
+git ls-files | grep ".py$" | xargs cat | wc -l
+	
+## Voila
+Launch/host Voila notebook for sharing
+	voila 07_china_attrition_modeling.ipynb --Voila.ip=0.0.0.0 --ExecutePreprocessor.timeout=60   
+	
+## Conda environment inconsistent
+	conda install anaconda
+fixes it.
+	- "conda list --revision" 
+		list all the revisions
+
+## Conda export without all versions
+	"conda env export --from-history > environment.yml"
